@@ -1,0 +1,11 @@
+{
+  "name": "git-tag-version",
+  "version": "1.0.0",
+  "description": "add project version from git tag to index.html file",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "simple-git": "^3.25.0"
+  }
+}
